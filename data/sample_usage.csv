@@ -1,0 +1,8 @@
+resource_id,resource_type,usage_hours,cost_per_hour,total_cost
+r1,EC2,100,0.24,24
+r2,RDS,200,0.50,100
+r3,S3,300,0.02,6
+r4,EC2,50,0.24,12
+r5,RDS,80,0.50,40
+r6,S3,500,0.02,10
+
