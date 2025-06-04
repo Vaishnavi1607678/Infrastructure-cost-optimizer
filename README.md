@@ -97,3 +97,8 @@ http://<your-ec2-public-ip>:8501
 ---
 
 
+![Screenshot (424)](https://github.com/user-attachments/assets/bee24b6a-6ff8-4940-a6cc-8f5bd21775e1)
+![Screenshot (420)](https://github.com/user-attachments/assets/4eddca2e-9340-4c53-a567-79b8f30fccfe)
+![Screenshot (416)](https://github.com/user-attachments/assets/084232cf-ae13-464c-8e27-21e790a0861f)
+![Screenshot (417)](https://github.com/user-attachments/assets/3c6827ae-b4ce-4130-8926-e191b3cdc05e)
+![Screenshot (402)](https://github.com/user-attachments/assets/759867d4-1214-4bc9-90d9-46c7f9671349)
